@@ -518,6 +518,7 @@ Initially created by [Marko](https://markodenic.com) at [Web Development Resourc
 | [web.dev](https://web.dev/measure/)                     |
 | [Optimizilla](https://imagecompressor.com/)             |
 | [SEOTester](https://seotest.me/)                        |
+| [JPEG Compressor](https://jpegcompressor.com/)                        |
 
 [⬆ back to top](#table-of-contents)
 
